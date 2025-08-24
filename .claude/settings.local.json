@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(npm run build:*)",
+      "Bash(npm test)",
+      "Bash(npm run test:coverage:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
